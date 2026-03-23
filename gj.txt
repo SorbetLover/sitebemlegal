@@ -1,0 +1,41 @@
+# Direito Autoral ou Copyright
+
+    Lei 9609/98 - Entende os direitos do autor e os que lhe são conexos.
+
+    Aplica-se na reprodução, distribuição e modificação de obras, exigindo autorização prévia, exceto para uso privado ou limitações legais;
+    Se mantém por 70 anos após a morte do autor.
+
+    Os usos incluem obras como livros, artigos, músicas, fotografias, filmes, esculturas, projetos arquitetônicos, softwares, códigos etc
+
+
+# Propriedade Industrial
+
+    Lei 9279/96 - Regula direitos e obrigações relativos á propriedade Industrial
+
+    Direitos á patentes como sinais distintivos (marcas), desenhos industriais, indicações geográficas, etc.
+    Garante exclusividade do uso e exploração economica ao invento ou empresa.
+
+
+# INPI 
+    Órgão vinculado ao Ministério do Desenvolvimento, Indústria, Comercio e Serviços, responsável por registrar e conceder direitos da propriedade intelectual no Brasil.
+    Criado em 1970
+    Registros tem validade de 10 anos renováveis.
+
+
+# Na programação 
+    Protege o software, seu código.
+    Com uma liçensa MIT, deixa seu projeto com código 100% aberto, EULA funciona como um direito de uso revogável.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
